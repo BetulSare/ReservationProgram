@@ -1,7 +1,7 @@
 # ReservationProgram
 
                           FOOD RESERVATION PROGRAM 
-A new restaurant is opening in ATU. The restaurant owner wants to view and manage customers' orders digitally. Therefore, we ask for your help in implementing this software. 
+A new restaurant is opening . The restaurant owner wants to view and manage customers' orders digitally. Therefore, we ask for your help in implementing this software. 
  
                              Software Requirements
 The basic operation that the restaurant expects from the software is as follows: 
